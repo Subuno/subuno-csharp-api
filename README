@@ -1,0 +1,16 @@
+#####################################
+# Copyright 2011 MERS Technologies. #
+#####################################
+
+API libraries for Subuno API in C#.
+
+See example usages inside directories for example usage.
+
+To execute examples:
+
+open "cs" solution, set "Example" project as startup project, build and run
+
+Just make sure the paths are correct so you can access the dependent libraries.
+
+Dependencies:
+--The .NET API requires .NET 4.0 framework
